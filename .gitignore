@@ -129,7 +129,7 @@ dmypy.json
 .pyre/
 
 .DS_Store
-config.py
+config.js
 secrets.py
 .vscode
 .ipynb_checkpoints
